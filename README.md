@@ -1,2 +1,3 @@
 # APythonSpider
 使用Python编写的关于boss直聘网站的爬虫项目
+使用数据库sqlite
